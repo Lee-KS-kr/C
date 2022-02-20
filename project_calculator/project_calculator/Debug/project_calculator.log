@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(16,32): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(16,32): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(16,53): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(16,53): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(17,38): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(17,46): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(5,6): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\project_calculator\main.c(6,9): warning C4101: 'remain' :참조되지 않은 지역 변수입니다.
+  project_calculator.vcxproj -> C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\project_calculator\Debug\project_calculator.exe

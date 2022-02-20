@@ -1,0 +1,6 @@
+﻿  day8.c
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\KitCoding\KitCoding\day8.c(18,17): error C2086: 'student s1': 재정의
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\KitCoding\KitCoding\day8.c(11): message : 's1' 선언을 참조하십시오.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\KitCoding\KitCoding\day8.c(19,24): error C2106: '=': 왼쪽 피연산자는 l-value이어야 합니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\KitCoding\KitCoding\day8.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\ASUS\Desktop\킷트\MSXspirit_original\C\KitCoding\KitCoding\day8.c(26,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.

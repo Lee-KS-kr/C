@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c83f775-ed35-4956-b6e3-6f62b8b7f6e6": {
+      "ProjectGuid": "2c83f775-ed35-4956-b6e3-6f62b8b7f6e6",
+      "DisplayName": "숫자야구게임",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  sub_body.c
+D:\code workspace\C\Project1\Project1\sub_body.c(293,12): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+D:\code workspace\C\Project1\Project1\sub_body.c(266,18): warning C4101: 'check' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> D:\code workspace\C\Project1\Debug\Project1.exe

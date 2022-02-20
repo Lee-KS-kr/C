@@ -1,0 +1,28 @@
+요구사항
+
+-메뉴
+도서 입력, 도서 출력, 도서 검색, 종료
+
+-기능
+도서 입력, 출력, 제목 검색, 저자 검색
+
+-요구사항
+*메뉴 방식으로 작업 선택
+*종료 메뉴 추가
+*책 제목 최대 50글자까지 입력 가능
+*저자명 최대 20글자까지 입력 가능
+*검색 : 제목 검색, 저자 검색
+*최대 100권 관리 기능
+
+자료
+도서명 char bookTitle
+저자 char bookAuthor
+가격 int bookPrice
+판매수량 int bookSale
+요구사항
+struct book{
+	char bookTitle[50];
+	char bookAuthor[20];
+	int bookPrice;
+	int bookSale;
+}
