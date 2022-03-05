@@ -1,0 +1,5 @@
+﻿  main.c
+D:\Fork\C\20220305_1603\main.c(7,1): warning C4305: '초기화 중': '__int64'에서 'long'(으)로 잘립니다.
+D:\Fork\C\20220305_1603\main.c(8,1): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+D:\Fork\C\20220305_1603\main.c(15,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  20220305_1603.vcxproj -> D:\Fork\C\20220305주말특강\Debug\20220305_1603.exe
