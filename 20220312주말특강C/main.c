@@ -1,4 +1,5 @@
 #include <stdio.h>
+#pragma warning (disable:4996)
 
 int main() 
 {
@@ -20,7 +21,6 @@ int main()
 	a = a ^ b;
 
 	printf("after a = %d, b = %d\n", a, b);
-
 
 	return 0;
 }
